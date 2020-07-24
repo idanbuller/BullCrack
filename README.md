@@ -2,7 +2,7 @@
 
 Password Hashing Detector & Cracker - POC
 
-This HASH cracker will crack any hash from the following:
+This HASH cracker will crack any algorithm of the following:
 * MD5
 * SHA-256
 * SHA-512
