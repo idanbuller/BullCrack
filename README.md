@@ -22,6 +22,8 @@ git clone https://github.com/idanbuller/BullCrack.git
 ## Usage
 
 ```python
+python3 bullcrack.py
+
 # Enter HASH to BullCrack it:
 test = Bullhash("203b70b5ae883932161bbd0bded9357e763e63afce98b16230be33f0b94c2cc5")
 test.cracker()
